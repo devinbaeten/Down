@@ -6,6 +6,7 @@
 @media (prefers-color-scheme: dark) {
   body,html {
     background-color: black;
+    color: white;
   }
   .markdown-body {
     color-scheme: dark;
@@ -57,6 +58,7 @@
 @media (prefers-color-scheme: light) {
   body,html {
     background-color: white;
+    color: black;
   }
   .markdown-body {
     color-scheme: light;
